@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rathorsunpreet
-- 👀 I’m interested in front end web developement, essentially javascript and python.
+- 👀 I’m interested in QA Automation and front end web developement, essentially javascript and python.
 - 🌱 I’m currently learning MERN stack.
 - 📫 You could reach me at rathorsunpreet@gmail.com
 
