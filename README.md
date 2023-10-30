@@ -20,6 +20,13 @@
 ### Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,java,py,git,bash,bootstrap,c,cpp,eclipse,express,fastapi,graphql,linux,maven,mongodb,postman,pug,regex,selenium,tailwind,vim,vscode&perline=20)
 
+
+
+### Youtube Videos:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+
 [1]: https://www.youtube.com/@SunpreetRathor/featured
 [2]: https://www.linkedin.com/in/rathorsunpreet/
 [3]: https://bitbucket.org/rathorsunpreet/workspace/repositories/
