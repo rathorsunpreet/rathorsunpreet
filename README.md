@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Learn more about web3 and server design.
 
 ### Connect with me:
-[<img align="left" alt="rathorsunpreet | Youtube" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@latest/icons/youtube.svg" />][1]
+[<img align="left" alt="rathorsunpreet | Youtube" width="32" height="32" src="https://cdn.jsdeliver.net/npm/simple-icons@latest/icons/youtube.svg" />][1]
 [<img align="left" alt="rathorsunpreet | Linkedin" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@latest/icons/linkedin.svg" />][2]
 [<img align="left" alt="rathorsunpreet | Bitbucket" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@latest/icons/bitbucket.svg" />][3]
 
