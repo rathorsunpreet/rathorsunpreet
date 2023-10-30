@@ -8,9 +8,9 @@
 - 🥅 2022 Goals: Learn more about web3 and server design.
 
 ### Connect with me:
-[<img align="left" alt="rathorsunpreet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> "Youtube Channel"][1]
-[<img align="left" alt="rathorsunpreet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> "Linkedin"][2]
-[<img align="left" alt="rathorsunpreet | Bitbucket Repo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" /> "Bitbucket Repos"][3]
+[<img align="left" alt="rathorsunpreet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" title="Youtube Channel"/>][1]
+[<img align="left" alt="rathorsunpreet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="Linkedin"/>][2]
+[<img align="left" alt="rathorsunpreet | Bitbucket Repo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" title="Bitbucket Repo"/>][3]
 
 <br/>
 
