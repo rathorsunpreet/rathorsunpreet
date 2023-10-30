@@ -16,7 +16,6 @@
 
 ---
 
-<br/>
 
 ### Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,java,py,git,bash,bootstrap,c,cpp,eclipse,express,fastapi,graphql,linux,maven,mongodb,postman,pug,regex,selenium,tailwind,vim,vscode&perline=20)
