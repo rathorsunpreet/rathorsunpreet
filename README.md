@@ -1,6 +1,5 @@
 ### Hello, I am Sunny (Sunpreet Singh Rathor).
 
-<br/>
 
 ## I'm a QA Tester and hobby programmer!
 - 👀 I’m interested in QA Automation and web developement (front and back-end).
@@ -14,8 +13,11 @@
 [<img align="left" alt="rathorsunpreet | Bitbucket Repo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][3]
 
 <br/>
+
 ---
+
 <br/>
+
 ### Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,java,py,git,bash,bootstrap,c,cpp,eclipse,express,fastapi,graphql,linux,maven,mongodb,postman,pug,regex,selenium,tailwind,vim,vscode&perline=20)
 
