@@ -5,7 +5,7 @@
 - 👀 I’m interested in QA Automation and web developement (front and back-end).
 - 🌱 I’m currently learning Selenium.
 - 👯 I’m looking to collaborate with other developers and programmers.
-- 🥅 2023 Goals: Learn more about web3 and server design.
+- 🥅 2023 Goals: Learn more about web3, server design and QA Tools.
 
 ### Connect with me:
 [<img align="left" alt="rathorsunpreet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" title="Youtube Channel"/>][1]
