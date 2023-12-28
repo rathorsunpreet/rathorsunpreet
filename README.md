@@ -1,11 +1,11 @@
 ### Hello, I am Sunny (Sunpreet Singh Rathor).
 
 
-## I'm a QA Tester and hobby programmer!
+## I'm a QA Tester and programmer!
+- 💻 I'm a QA Tester / SDET.
 - 👀 I’m interested in QA Automation and web developement (front and back-end).
-- 🌱 I’m currently learning Selenium.
+- 🎓 I'm an Individual who completed my Masters in Applied Computer Science from Concordia University, Montreal, QC.
 - 👯 I’m looking to collaborate with other developers and programmers.
-- 🥅 2023 Goals: Learn more about web3, server design and QA Tools.
 
 ### Connect with me:
 [<img align="left" alt="rathorsunpreet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" title="Youtube Channel"/>][1]
