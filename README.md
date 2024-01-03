@@ -15,8 +15,9 @@
 [<img align="left" alt="rathorsunpreet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" title="Youtube Channel"/>][1]
 [<img align="left" alt="rathorsunpreet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="Linkedin"/>][2]
 [<img align="left" alt="rathorsunpreet | Bitbucket Repo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" title="Bitbucket Repo"/>][3]
-<br/>
+<div>
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions! 🚀
+</div>
 <br/>
 
 ---
