@@ -11,7 +11,7 @@
 ## Education
 - 🎓 Master of Science in Applied Computer Science, [Concordia University], [2014]
 
-### Connect with me:
+## Connect with me:
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions! 🚀
 
 
@@ -25,12 +25,12 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ---
 
 
-### Languages and Tools:
+## Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,java,py,git,bash,bootstrap,c,cpp,eclipse,express,fastapi,graphql,linux,maven,mongodb,postman,pug,regex,selenium,tailwind,vim,vscode&perline=20)
 
 
 
-### Youtube Videos:
+## Youtube Videos:
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uk01c8UST4g"><img width="140px" src="http://img.youtube.com/vi/uk01c8UST4g/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uk01c8UST4g">Selenium IDE Sample Run</a><br/>Sun Nov 05 2023 8:21 PM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sryHxDWeVfA"><img width="140px" src="http://img.youtube.com/vi/sryHxDWeVfA/maxresdefault.jpg"></a></td>
