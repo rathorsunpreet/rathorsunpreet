@@ -31,7 +31,9 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 
 ## Youtube Videos:
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZmtPn8FZk0k"><img width="140px" src="http://img.youtube.com/vi/ZmtPn8FZk0k/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ja0uVJCAssw"><img width="140px" src="http://img.youtube.com/vi/Ja0uVJCAssw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ja0uVJCAssw">JMeter DB Check</a><br/>Tue Mar 26 2024 8:16 PM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZmtPn8FZk0k"><img width="140px" src="http://img.youtube.com/vi/ZmtPn8FZk0k/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZmtPn8FZk0k">JMeter API Check</a><br/>Tue Mar 26 2024 8:14 PM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ALcGYkD7VP4"><img width="140px" src="http://img.youtube.com/vi/ALcGYkD7VP4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ALcGYkD7VP4">Bash API Check</a><br/>Tue Mar 26 2024 8:11 PM</td></tr></table>
@@ -39,8 +41,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <td><a href="https://www.youtube.com/watch?v=gpbQwuxW-r4">SQL Exercises</a><br/>Mon Feb 19 2024 4:51 PM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uk01c8UST4g"><img width="140px" src="http://img.youtube.com/vi/uk01c8UST4g/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uk01c8UST4g">Selenium IDE Sample Run</a><br/>Sun Nov 05 2023 8:21 PM</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sryHxDWeVfA"><img width="140px" src="http://img.youtube.com/vi/sryHxDWeVfA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sryHxDWeVfA">Cross Browser TestNG Project</a><br/>Sun Nov 05 2023 8:01 PM</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
