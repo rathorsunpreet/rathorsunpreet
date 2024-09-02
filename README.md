@@ -31,7 +31,9 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 
 ## Youtube Videos:
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fVYVuxReb4I"><img width="140px" src="http://img.youtube.com/vi/fVYVuxReb4I/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9RGv4bsbNEk"><img width="140px" src="http://img.youtube.com/vi/9RGv4bsbNEk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9RGv4bsbNEk">GraphQL API Check</a><br/>Mon Sep 02 2024 1:13 AM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fVYVuxReb4I"><img width="140px" src="http://img.youtube.com/vi/fVYVuxReb4I/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fVYVuxReb4I">The Why and Where to Use These Projects</a><br/>Mon Jul 01 2024 6:59 PM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=s715EUHGxIs"><img width="140px" src="http://img.youtube.com/vi/s715EUHGxIs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s715EUHGxIs">Unattended Jenkins Jobs</a><br/>Wed Jun 05 2024 12:08 AM</td></tr></table>
@@ -39,8 +41,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <td><a href="https://www.youtube.com/watch?v=R1NcrJdQBN8">Jenkins Github Pipeline</a><br/>Sat Jun 01 2024 2:19 AM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ja0uVJCAssw"><img width="140px" src="http://img.youtube.com/vi/Ja0uVJCAssw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ja0uVJCAssw">JMeter DB Check</a><br/>Tue Mar 26 2024 8:16 PM</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZmtPn8FZk0k"><img width="140px" src="http://img.youtube.com/vi/ZmtPn8FZk0k/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZmtPn8FZk0k">JMeter API Check</a><br/>Tue Mar 26 2024 8:14 PM</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
