@@ -31,7 +31,9 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 
 ## Youtube Videos:
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dCNlXr5rnV8"><img width="140px" src="http://img.youtube.com/vi/dCNlXr5rnV8/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1xA1X_nQopA"><img width="140px" src="http://img.youtube.com/vi/1xA1X_nQopA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1xA1X_nQopA">REST-API-Check using Hurl</a><br/>Wed Oct 02 2024 6:30 PM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dCNlXr5rnV8"><img width="140px" src="http://img.youtube.com/vi/dCNlXr5rnV8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dCNlXr5rnV8">Postman Restrictions and Alternatives</a><br/>Wed Sep 25 2024 6:00 PM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AeaR5Yi4O-M"><img width="140px" src="http://img.youtube.com/vi/AeaR5Yi4O-M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AeaR5Yi4O-M">SOAP API Test</a><br/>Wed Sep 18 2024 3:09 PM</td></tr></table>
@@ -39,8 +41,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <td><a href="https://www.youtube.com/watch?v=9RGv4bsbNEk">GraphQL API Check</a><br/>Mon Sep 02 2024 1:13 AM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fVYVuxReb4I"><img width="140px" src="http://img.youtube.com/vi/fVYVuxReb4I/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fVYVuxReb4I">The Why and Where to Use These Projects</a><br/>Mon Jul 01 2024 6:59 PM</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=s715EUHGxIs"><img width="140px" src="http://img.youtube.com/vi/s715EUHGxIs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=s715EUHGxIs">Unattended Jenkins Jobs</a><br/>Wed Jun 05 2024 12:08 AM</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
