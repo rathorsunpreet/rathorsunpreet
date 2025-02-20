@@ -31,7 +31,9 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 
 ## Youtube Videos:
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qw16KlvStXs"><img width="140px" src="http://img.youtube.com/vi/qw16KlvStXs/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZVALKUvCgM4"><img width="140px" src="http://img.youtube.com/vi/ZVALKUvCgM4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZVALKUvCgM4">Update Bash API Check</a><br/>Thu Feb 20 2025 8:14 PM</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qw16KlvStXs"><img width="140px" src="http://img.youtube.com/vi/qw16KlvStXs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qw16KlvStXs">Cucumber REST API Java Test</a><br/>Sat Nov 30 2024 2:18 AM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1xA1X_nQopA"><img width="140px" src="http://img.youtube.com/vi/1xA1X_nQopA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1xA1X_nQopA">REST-API-Check using Hurl</a><br/>Wed Oct 02 2024 6:30 PM</td></tr></table>
@@ -39,8 +41,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <td><a href="https://www.youtube.com/watch?v=dCNlXr5rnV8">Postman Restrictions and Alternatives</a><br/>Wed Sep 25 2024 6:00 PM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AeaR5Yi4O-M"><img width="140px" src="http://img.youtube.com/vi/AeaR5Yi4O-M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AeaR5Yi4O-M">SOAP API Test</a><br/>Wed Sep 18 2024 3:09 PM</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9RGv4bsbNEk"><img width="140px" src="http://img.youtube.com/vi/9RGv4bsbNEk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9RGv4bsbNEk">GraphQL API Check</a><br/>Mon Sep 02 2024 1:13 AM</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
