@@ -1,20 +1,13 @@
 ### Hello, I am Sunny (Sunpreet Singh Rathor).
 
 
-## About Me
-- 🎓 Master's in Applied Computer Science
-- 🧑‍💻 QA Tester with a passion for ensuring software quality
-- 💻 Proficient in programming languages such as Java and Python
-- 🌐 Familiar with web automation using Selenium
-- 📊 Experienced in test planning, execution, and defect tracking
+## About Me:
+- Have a Masters Degree in Applied Computer Science
+- Enjoyed working as a QA Tester for around 8 years
+- Even got my name in [End Credits Scene in Resident Evil 4 VR Remake](https://youtu.be/D3Q29F4yg8M?t=2049)
+- Linux enjoyer
 
-## Education
-- 🎓 Master of Science in Applied Computer Science, [Concordia University], [2014]
-
-## Connect with me:
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions! 🚀
-
-
+## Links:
 
 [<img align="left" alt="rathorsunpreet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" title="Youtube Channel"/>][1]
 [<img align="left" alt="rathorsunpreet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="Linkedin"/>][2]
